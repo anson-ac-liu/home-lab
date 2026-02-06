@@ -15,5 +15,6 @@ Planning:
 - Domain controller
 - Splunk
 - Metasploitable
+- SMTP server
 - Cloudflare
 - Canarytokens

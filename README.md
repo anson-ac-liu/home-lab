@@ -21,3 +21,5 @@ Planning:
 - Certificates
 - Cloudflare
 - Canarytokens
+- CI/CD pipeline
+- Containerization (Docker, Podman, Kubernetes, OpenShift?)

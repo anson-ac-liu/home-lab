@@ -18,6 +18,9 @@ Planning:
 - Splunk
 - Metasploitable
 - SMTP server
+- Load balancer
+- Proxy server
+- API
 - Certificates
 - Cloudflare
 - Canarytokens

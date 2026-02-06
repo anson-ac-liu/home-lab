@@ -1,6 +1,8 @@
 # Home lab
 
 Planning:
+- VMware hypervisor
+- Linux (Red Hat?) and Windows
 - Web server
 - SSH server
 - NFS server

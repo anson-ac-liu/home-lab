@@ -21,7 +21,7 @@ Planning:
 - Load balancer
 - Proxy server
 - API
-- Certificates
+- PKI
 - Cloudflare
 - Canarytokens
 - CI/CD pipeline

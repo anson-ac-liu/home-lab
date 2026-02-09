@@ -1,4 +1,4 @@
-Hypervisor setup
+# Hypervisor setup
 
 1. Downloaded VMware vSphere Hypervisor (ESXi ISO) 8.0.3 from Broadcom support portal
 2. Created a bootable USB drive using Rufus

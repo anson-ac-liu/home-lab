@@ -7,3 +7,7 @@
 5. Disk: WDC WD10SPZX-21Z
 6. Received warning: CPU not supported (i7-4790). Chose to override and force installation.
 7. Received an error: "Exception: No vmknic tagged for management was found."
+
+To fix this error:
+
+8. Downloaded USB Network Native Driver for ESXi for ESXi 8.0 Update 3 from Broadcom support portal

@@ -1,7 +1,7 @@
 # Home lab
 
 Planning:
-- VMware hypervisor
+- VMware hypervisor, vSphere
 - Linux (Red Hat?) and Windows
 - Web server
 - SSH server
@@ -26,3 +26,8 @@ Planning:
 - Canarytokens
 - CI/CD pipeline
 - Containerization (Docker, Podman, Kubernetes, OpenShift?)
+- Git / Stash
+- Ansible
+- Chef
+- HashiCorp Terraform, Vault
+- CloudBees/Jenkins
